@@ -1,0 +1,5 @@
+Cython==0.20.1
+bson==0.3.3
+cymysql==0.7.3
+pytz==2014.4
+wsgiref==0.1.2
