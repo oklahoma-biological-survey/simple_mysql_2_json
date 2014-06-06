@@ -41,9 +41,8 @@ Simple script to access remote mysql and turn into json.
         "day": "20"
     },
     
-    ...
-    
-    
+    .......
+
     ,{
         "county": "LOVE",
         "number": "1",
