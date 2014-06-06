@@ -18,7 +18,7 @@ Simple script to access remote mysql and turn into json.
 
 
 ### Result
-
+<pre><code>
 [
     {
         "county": "CHEROKEE",
@@ -65,3 +65,4 @@ Simple script to access remote mysql and turn into json.
         "day": "11"
     }
 ]
+</pre></code>
