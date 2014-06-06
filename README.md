@@ -39,8 +39,8 @@ Simple script to access remote mysql and turn into json.
         "local": "LAKE EUFAULA STATE PARK",
         "class": "REPTILIA",
         "day": "20"
-    },{
-    
+    },
+    {
         "Sample":"Other records removed"
     },
     {
