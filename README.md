@@ -6,18 +6,18 @@ Simple script to access remote mysql and turn into json.
 
 ### Python Environment Install
 <code>
-    $ easy_install pip
-    $ pip install virtualenv
-    $ virtualenv virtpy
-    $ source virtpy/bin/activate
-    $ pip install -r requirement.txt
+    $ easy_install pip <br>
+    $ pip install virtualenv <br>
+    $ virtualenv virtpy <br>
+    $ source virtpy/bin/activate <br>
+    $ pip install -r requirement.txt <br>
 </code>
 
 ###  Setup and Run 
 <code> 
-        $ cp config.py.template config.py
-        # edit config.py and set host,username,password
-        $ python mysql_cy
+        $ cp config.py.template config.py <br>
+        # edit config.py and set host,username,password <br>
+        $ python mysql_cy <br>
 </code>
 
 
