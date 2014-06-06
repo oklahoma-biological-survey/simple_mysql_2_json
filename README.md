@@ -5,13 +5,13 @@ Simple script to access remote mysql and turn into json.
 
 
 ### Python Environment Install
-<code>
+<pre><code>
     $ easy_install pip <br>
     $ pip install virtualenv <br>
     $ virtualenv virtpy <br>
     $ source virtpy/bin/activate <br>
     $ pip install -r requirement.txt <br>
-</code>
+</code></pre>
 
 ###  Setup and Run 
 <code> 
