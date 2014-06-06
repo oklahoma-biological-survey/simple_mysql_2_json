@@ -1,0 +1,5 @@
+#Copy template to config.py
+#Set Host username and password
+host='Hostname'
+username='XXXX'
+password='XXXXXXXX'
