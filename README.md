@@ -14,11 +14,11 @@ Simple script to access remote mysql and turn into json.
 </code></pre>
 
 ###  Setup and Run 
-<code> 
+<pre><code> 
         $ cp config.py.template config.py <br>
         # edit config.py and set host,username,password <br>
         $ python mysql_cy <br>
-</code>
+</code></pre>
 
 
 ### Result
@@ -68,4 +68,4 @@ Simple script to access remote mysql and turn into json.
         "day": "11"
     }
 ]
-</pre></code>
+</code></pre>
