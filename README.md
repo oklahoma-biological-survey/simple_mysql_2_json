@@ -15,7 +15,7 @@ $ pip install -r requirement.txt <br>
 ###  Setup and Run 
 <pre><code>$ cp config.py.template config.py <br>
  # edit config.py and set host,username,password <br>
-$ python mysql_cy <br>
+$ python mysql_db.py <br>
 </code></pre>
 
 
